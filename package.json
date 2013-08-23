@@ -1,0 +1,22 @@
+{
+      "name":           "ee-error"
+    , "description":    "Extends the native error object with a setName & setDescription method"
+    , "version":        "0.1.0"
+    , "homepage":       "https://github.com/eventEmitter/ee-error"
+    , "author":         "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence":        "MIT"
+    , "repository": {
+        "url":          "https://github.com/eventEmitter/ee-error"
+    }
+    , "engines": {
+        "node":         "*"
+    }
+    , "bugs": {
+        "url":          "https://github.com/eventEmitter/ee-error/issues"
+    }
+    , "dependencies": {}
+    , "devDependencies": {        
+          "ee-log":   "*"
+    }
+    , "optionalDependencies": {}
+}
