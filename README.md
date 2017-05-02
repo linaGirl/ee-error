@@ -1,5 +1,7 @@
 # ee-error
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-error.svg)](https://greenkeeper.io/)
+
 Extends the native error object with a setName & setDescription method
 
 ## installation
